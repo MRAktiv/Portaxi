@@ -1,0 +1,40 @@
+## Interface: 11509, 16001, 20506
+## Title: Portaxi
+## Notes: Portal and summon taxi: mages and warlocks take orders, players book a trip, confirmed trips build the ratings.
+## Notes-ruRU: Такси из порталов и призывов: маги и локи принимают заказы, игроки заказывают поездку, рейтинг строится по подтверждённым поездкам.
+## Author: MRAktiv
+## Version: 1.0.0
+## IconTexture: Interface\AddOns\Portaxi\Media\logo
+## AddonCompartmentFunc: Portaxi_OnAddonCompartmentClick
+## AddonCompartmentFuncOnEnter: Portaxi_OnAddonCompartmentEnter
+## AddonCompartmentFuncOnLeave: Portaxi_OnAddonCompartmentLeave
+## Category-enUS: Class
+## Category-ruRU: Классы
+## SavedVariables: PortaxiDB
+
+embeds.xml
+
+Lang.lua
+Locales\enUS.lua
+Locales\ruRU.lua
+
+Util.lua
+Data.lua
+Words.lua
+Admins.lua
+Proto.lua
+Ledger.lua
+Market.lua
+ChatWatch.lua
+Init.lua
+Theme.lua
+Net.lua
+Trade.lua
+Duty.lua
+Deal.lua
+Admin.lua
+Listen.lua
+UI.lua
+Tickets.lua
+Diag.lua
+Core.lua
