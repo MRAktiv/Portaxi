@@ -1,3 +1,5 @@
+[![Support: Donate](https://img.shields.io/badge/SUPPORT-DONATE-e05d44?style=for-the-badge)](https://pay.cloudtips.ru/p/8f27a17d)
+
 # Portaxi
 
 Download: [CurseForge](https://www.curseforge.com/wow/addons/portaxi)
